@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001E;
-	background-color: #47CE7C;
+	color: #00000B;
+	background-color: #F4F594;
 }
 
 .html
@@ -20,7 +20,7 @@
 	background-color: transparent;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 144px 44px 46px 43px;
+	padding: 144px 43px 46px 44px;
 }
 
 #u970
@@ -56,14 +56,14 @@
 	line-height: 28px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
-	margin-left: 241px;
+	margin-left: 240px;
 	position: relative;
 }
 
 #pu982
 {
 	width: 0.01px;
-	margin-left: 103px;
+	margin-left: 102px;
 	margin-top: 23px;
 }
 
@@ -115,7 +115,7 @@
 	line-height: 28px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
-	margin-left: 241px;
+	margin-left: 240px;
 	margin-top: 58px;
 	position: relative;
 }
@@ -128,7 +128,6 @@
 #pu553
 {
 	width: 0.01px;
-	margin-left: 1px;
 	margin-top: 45px;
 }
 
@@ -289,7 +288,6 @@
 #pu554
 {
 	width: 0.01px;
-	margin-left: 1px;
 	margin-top: 29px;
 }
 
@@ -445,13 +443,6 @@
 	font-weight: 400;
 	margin-top: 10px;
 	position: relative;
-}
-
-#pu555
-{
-	width: 0.01px;
-	margin-left: 1px;
-	margin-top: 78px;
 }
 
 #u555
@@ -731,13 +722,6 @@
 	position: relative;
 }
 
-#pu556,#pu813
-{
-	width: 0.01px;
-	margin-left: 1px;
-	margin-top: 28px;
-}
-
 #u813
 {
 	z-index: 9;
@@ -892,10 +876,9 @@
 	position: relative;
 }
 
-#pu823
+#pu555,#pu823
 {
 	width: 0.01px;
-	margin-left: 1px;
 	margin-top: 27px;
 }
 
@@ -1166,15 +1149,6 @@
 	left: 4px;
 }
 
-#pu569,#pu571,#pu854
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 21px;
-	margin-left: 21px;
-}
-
 #u854
 {
 	z-index: 58;
@@ -1365,12 +1339,6 @@
 	position: relative;
 }
 
-#pu850,#pu866,#pu918
-{
-	width: 0.01px;
-	margin-top: 28px;
-}
-
 #u918
 {
 	z-index: 10;
@@ -1551,10 +1519,10 @@
 	position: relative;
 }
 
-#pu919
+#pu556,#pu813,#pu850,#pu866,#pu918,#pu919
 {
 	width: 0.01px;
-	margin-top: 29px;
+	margin-top: 28px;
 }
 
 #u919
@@ -1566,6 +1534,15 @@
 	padding-bottom: 6px;
 	position: relative;
 	margin-right: -10000px;
+}
+
+#pu563,#pu565,#pu567,#pu835,#pu832,#pu824,#pu924,#pu927
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 20px;
+	margin-left: 21px;
 }
 
 #u927
@@ -1678,12 +1655,12 @@
 	left: 4px;
 }
 
-#pu563,#pu565,#pu567,#pu835,#pu832,#pu824,#pu924,#pu927,#pu910
+#pu569,#pu571,#pu854,#pu910
 {
 	width: 0.01px;
 	padding-bottom: 0px;
 	margin-right: -10000px;
-	margin-top: 20px;
+	margin-top: 21px;
 	margin-left: 21px;
 }
 
