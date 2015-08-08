@@ -1,7 +1,7 @@
 .version.map /* version checker */
 {
-	color: #000012;
-	background-color: #127DC3;
+	color: #00001E;
+	background-color: #C4DF7A;
 }
 
 .html
@@ -71,6 +71,11 @@
 	top: 42px;
 	left: 50%;
 	margin-left: 436px;
+}
+
+#u413_img
+{
+	padding-right: 2px;
 }
 
 #u771-4

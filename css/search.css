@@ -1,7 +1,7 @@
 .version.search /* version checker */
 {
-	color: #0000F2;
-	background-color: #BB7CE1;
+	color: #00001F;
+	background-color: #D2D7AC;
 }
 
 .html
@@ -73,6 +73,11 @@
 	margin-left: 436px;
 }
 
+#u413_img
+{
+	padding-right: 2px;
+}
+
 #u339-4
 {
 	z-index: 2;
@@ -99,11 +104,25 @@
 {
 	z-index: 6;
 	width: 414px;
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-style: none;
 	background-color: #FFFFFF;
 	border-radius: 12px;
 	padding-bottom: 8px;
 	position: relative;
 	margin-right: -10000px;
+}
+
+.Style
+{
+	-pie-box-shadow: none;
+	box-shadow: 0px 5px 0px rgba(0,0,0,0.5);
+	border-width: 10px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	border-radius: 110px;
 }
 
 #u678
@@ -199,6 +218,9 @@
 {
 	z-index: 10;
 	width: 414px;
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-style: none;
 	background-color: #FFFFFF;
 	border-radius: 12px;
 	padding-bottom: 6px;
@@ -277,6 +299,9 @@
 {
 	z-index: 7;
 	width: 414px;
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-style: none;
 	background-color: #FFFFFF;
 	border-radius: 12px;
 	padding-bottom: 6px;
@@ -347,6 +372,9 @@
 {
 	z-index: 11;
 	width: 414px;
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-style: none;
 	background-color: #FFFFFF;
 	border-radius: 12px;
 	padding-bottom: 6px;
@@ -449,6 +477,9 @@
 {
 	z-index: 8;
 	width: 414px;
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-style: none;
 	background-color: #FFFFFF;
 	border-radius: 12px;
 	padding-bottom: 6px;
@@ -519,6 +550,9 @@
 {
 	z-index: 12;
 	width: 414px;
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-style: none;
 	background-color: #FFFFFF;
 	border-radius: 12px;
 	padding-bottom: 6px;
@@ -636,6 +670,9 @@
 {
 	z-index: 9;
 	width: 414px;
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-style: none;
 	background-color: #FFFFFF;
 	border-radius: 12px;
 	padding-bottom: 10px;
@@ -706,6 +743,9 @@
 {
 	z-index: 13;
 	width: 414px;
+	-pie-box-shadow: none;
+	box-shadow: none;
+	border-style: none;
 	background-color: #FFFFFF;
 	border-radius: 12px;
 	padding-bottom: 10px;
@@ -716,7 +756,8 @@
 
 #u632:hover,#u636:hover,#u633:hover,#u637:hover,#u634:hover,#u638:hover,#u635:hover,#u639:hover
 {
-	background-color: #E4FFFF;
+	-pie-box-shadow: 0px 5px 0px #7F7F7F;
+	box-shadow: 0px 5px 0px rgba(0,0,0,0.5);
 	width: 414px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;

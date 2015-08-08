@@ -1,7 +1,7 @@
 .version.team /* version checker */
 {
-	color: #000019;
-	background-color: #DFA40A;
+	color: #0000FE;
+	background-color: #467B06;
 }
 
 .html
@@ -200,6 +200,15 @@
 	z-index: 48;
 	width: 150px;
 	height: 150px;
+	border-width: 10px;
+	border-style: solid;
+	margin-left: 54px;
+	margin-top: 80px;
+	position: relative;
+}
+
+.Style
+{
 	-pie-box-shadow: none;
 	box-shadow: 0px 5px 0px rgba(0,0,0,0.5);
 	border-width: 10px;
@@ -207,9 +216,6 @@
 	border-color: #FFFFFF;
 	background-color: transparent;
 	border-radius: 110px;
-	margin-left: 54px;
-	margin-top: 80px;
-	position: relative;
 }
 
 #u758-4
@@ -372,6 +378,11 @@
 	top: 42px;
 	left: 50%;
 	margin-left: 436px;
+}
+
+#u413_img
+{
+	padding-right: 2px;
 }
 
 body

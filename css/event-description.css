@@ -1,7 +1,7 @@
 .version.event_description /* version checker */
 {
-	color: #00001D;
-	background-color: #B87A89;
+	color: #000001;
+	background-color: #AC0CB9;
 }
 
 .html
@@ -78,6 +78,11 @@
 	top: 42px;
 	left: 50%;
 	margin-left: 436px;
+}
+
+#u413_img
+{
+	padding-right: 2px;
 }
 
 #u804-4

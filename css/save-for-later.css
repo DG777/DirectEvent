@@ -1,7 +1,7 @@
 .version.save_for_later /* version checker */
 {
-	color: #000007;
-	background-color: #A38B18;
+	color: #000009;
+	background-color: #85F841;
 }
 
 .html
@@ -71,6 +71,11 @@
 	top: 42px;
 	left: 50%;
 	margin-left: 436px;
+}
+
+#u413_img
+{
+	padding-right: 2px;
 }
 
 body
