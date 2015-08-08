@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dg777.github.io/Showoff" resolutions="1x,2x" timestamp="1439009281165">
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dg777.github.io/Showoff" resolutions="1x,2x" timestamp="1439009522453">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_a-master.css" crc="173209378" ref="when-and-where:untitled-5:index:event-description"/>
@@ -35,8 +35,8 @@
     <file name="8_2x.jpg" crc="3960927605" seo="true" ref="when-and-where"/>
     <file name="pasted image 1515x1043.jpg" crc="425363449" seo="true" ref="untitled-5"/>
   </folder>
-  <file name="event-description.html" crc="108020922" seo="true" mt="1439008737330" redirect="true"/>
-  <file name="when-and-where.html" crc="216649466" seo="true" mt="1439008731097" redirect="true"/>
-  <file name="index.html" crc="4196762660" seo="true" mt="1439008713334" redirect="true"/>
-  <file name="untitled-5.html" crc="4018016059" seo="true" mt="1439009114968" redirect="true"/>
+  <file name="event-description.html" crc="3987949412" seo="true" mt="1439009506774" redirect="true"/>
+  <file name="when-and-where.html" crc="3822342146" seo="true" mt="1439009506774" redirect="true"/>
+  <file name="index.html" crc="3763577724" seo="true" mt="1439009506774" redirect="true"/>
+  <file name="untitled-5.html" crc="4112147752" seo="true" mt="1439009506774" redirect="true"/>
 </manifest>
