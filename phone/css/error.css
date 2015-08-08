@@ -1,0 +1,111 @@
+.version.error /* version checker */
+{
+	color: #000009;
+	background-color: #2ACA35;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 288px;
+	min-height: 370.81144067796674px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding: 89px 46px 110.18855932203326px;
+}
+
+#u1253
+{
+	z-index: 2;
+	width: 127px;
+	background-color: transparent;
+	margin-left: 80px;
+	position: relative;
+}
+
+#u1255-4
+{
+	z-index: 4;
+	width: 289px;
+	min-height: 72px;
+	background-color: transparent;
+	letter-spacing: 0px;
+	font-size: 19px;
+	text-align: center;
+	line-height: 23px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	margin-top: 42px;
+	position: relative;
+}
+
+#u1256-4
+{
+	z-index: 8;
+	width: 109px;
+	min-height: 39px;
+	background-color: transparent;
+	font-size: 19px;
+	text-align: center;
+	line-height: 23px;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	margin-left: 89px;
+	margin-top: 7px;
+	position: relative;
+}
+
+#u1256-4:hover
+{
+	background-color: #77CEC8;
+	border-radius: 12px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 39px;
+	width: 109px;
+	margin: 7px 0px 0px 89px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

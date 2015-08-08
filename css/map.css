@@ -1,7 +1,7 @@
 .version.map /* version checker */
 {
-	color: #00001E;
-	background-color: #C4DF7A;
+	color: #000017;
+	background-color: #BB1992;
 }
 
 .html
@@ -113,7 +113,7 @@
 #u405
 {
 	z-index: 43;
-	width: 298px;
+	width: 331px;
 	min-height: 66px;
 	border-style: none;
 	border-color: transparent;
