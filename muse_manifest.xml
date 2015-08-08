@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dg777.github.io/Showoff" resolutions="1x,2x" timestamp="1439068346070">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dg777.github.io/Showoff" resolutions="1x,2x" timestamp="1439068417233">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_a-master.css" crc="468411961" ref="event-description:team:save-for-later:map:feedback:search"/>
-    <file name="index.css" crc="311067188" ref="index"/>
+    <file name="index.css" crc="4267673019" ref="index"/>
     <file name="event-description.css" crc="498629257" ref="event-description"/>
     <file name="master_a-master-copy.css" crc="263648857" ref="index"/>
     <file name="team.css" crc="434086922" ref="team"/>
@@ -22,7 +22,7 @@
     <file name="logo-w-text.png" crc="3826559241" seo="true" ref="event-description:index:search:map:team:feedback:save-for-later"/>
     <file name="logo-w-text_2x.png" crc="417765729" seo="true" ref="event-description:index:search:map:team:feedback:save-for-later"/>
     <file name="1.jpg" crc="233555428" seo="true" ref="event-description"/>
-    <file name="1226x97.jpg" crc="3782976855" seo="true" ref="search"/>
+    <file name="1226x97.jpg" crc="3782976855" seo="true" ref="search:index"/>
     <file name="1_2x.jpg" crc="3945266608" seo="true" ref="search:index"/>
     <file name="2.jpg" crc="4159850994" seo="true" ref="search:index"/>
     <file name="2_2x.jpg" crc="475500149" seo="true" ref="search:index"/>
@@ -48,7 +48,7 @@
     <file name="logo_2x.png" crc="3889004645" seo="true" ref="error"/>
   </folder>
   <file name="event-description.html" crc="3774144304" seo="true" mt="1439067112465" redirect="true"/>
-  <file name="index.html" crc="4021437890" seo="true" mt="1439068036472" redirect="true"/>
+  <file name="index.html" crc="479317327" seo="true" mt="1439068411675" redirect="true"/>
   <file name="search.html" crc="4034118171" seo="true" mt="1439067112465" redirect="true"/>
   <file name="map.html" crc="417857537" seo="true" mt="1439067112465" redirect="true"/>
   <file name="error.html" crc="217424798" seo="true" mt="1439029551644" redirect="true"/>
