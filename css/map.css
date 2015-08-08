@@ -1,7 +1,7 @@
 .version.map /* version checker */
 {
-	color: #000012;
-	background-color: #127DC3;
+	color: #000017;
+	background-color: #BB1992;
 }
 
 .html
@@ -73,6 +73,11 @@
 	margin-left: 436px;
 }
 
+#u413_img
+{
+	padding-right: 2px;
+}
+
 #u771-4
 {
 	z-index: 23;
@@ -108,7 +113,7 @@
 #u405
 {
 	z-index: 43;
-	width: 298px;
+	width: 331px;
 	min-height: 66px;
 	border-style: none;
 	border-color: transparent;

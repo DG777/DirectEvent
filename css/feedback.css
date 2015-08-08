@@ -1,7 +1,7 @@
 .version.feedback /* version checker */
 {
-	color: #00000D;
-	background-color: #7DC95A;
+	color: #000015;
+	background-color: #1D58CD;
 }
 
 .html
@@ -71,6 +71,11 @@
 	top: 42px;
 	left: 50%;
 	margin-left: 436px;
+}
+
+#u413_img
+{
+	padding-right: 2px;
 }
 
 #u949-8
