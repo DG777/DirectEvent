@@ -1,0 +1,42 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dg777.github.io/Showoff" resolutions="1x,2x" timestamp="1439009281165">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="173209378" ref="when-and-where:untitled-5:index:event-description"/>
+    <file name="when-and-where.css" crc="235691427" ref="when-and-where"/>
+    <file name="untitled-5.css" crc="196362529" ref="untitled-5"/>
+    <file name="index.css" crc="4229248958" ref="index"/>
+    <file name="event-description.css" crc="3995342678" ref="event-description"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="event-description:when-and-where:index:untitled-5"/>
+    <file name="museutils.js" crc="183364071" ref="event-description:when-and-where:index:untitled-5"/>
+    <file name="pie.js" crc="3827607177" ref="event-description:when-and-where:index:untitled-5"/>
+    <file name="jquery.watch.js" crc="71412426" ref="event-description:when-and-where:index:untitled-5"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-w-text.png" crc="3826559241" seo="true" ref="event-description:when-and-where:index:untitled-5"/>
+    <file name="logo-w-text_2x.png" crc="417765729" seo="true" ref="event-description:when-and-where:index:untitled-5"/>
+    <file name="1.jpg" crc="233555428" seo="true" ref="event-description"/>
+    <file name="1226x97.jpg" crc="3782976855" seo="true" ref="when-and-where"/>
+    <file name="1_2x.jpg" crc="3945266608" seo="true" ref="when-and-where"/>
+    <file name="2.jpg" crc="4159850994" seo="true" ref="when-and-where"/>
+    <file name="2_2x.jpg" crc="475500149" seo="true" ref="when-and-where"/>
+    <file name="3.jpg" crc="159868883" seo="true" ref="when-and-where"/>
+    <file name="3_2x.jpg" crc="502463649" seo="true" ref="when-and-where"/>
+    <file name="4.jpg" crc="500572622" seo="true" ref="when-and-where"/>
+    <file name="4_2x.jpg" crc="133962795" seo="true" ref="when-and-where"/>
+    <file name="5.jpg" crc="3824626407" seo="true" ref="when-and-where"/>
+    <file name="5_2x.jpg" crc="426563954" seo="true" ref="when-and-where"/>
+    <file name="6.jpg" crc="3825840163" seo="true" ref="when-and-where"/>
+    <file name="6_2x.jpg" crc="3952848821" seo="true" ref="when-and-where"/>
+    <file name="7.jpg" crc="3813537274" seo="true" ref="when-and-where"/>
+    <file name="7_2x.jpg" crc="236058771" seo="true" ref="when-and-where"/>
+    <file name="8.jpg" crc="333185790" seo="true" ref="when-and-where"/>
+    <file name="8_2x.jpg" crc="3960927605" seo="true" ref="when-and-where"/>
+    <file name="pasted image 1515x1043.jpg" crc="425363449" seo="true" ref="untitled-5"/>
+  </folder>
+  <file name="event-description.html" crc="108020922" seo="true" mt="1439008737330" redirect="true"/>
+  <file name="when-and-where.html" crc="216649466" seo="true" mt="1439008731097" redirect="true"/>
+  <file name="index.html" crc="4196762660" seo="true" mt="1439008713334" redirect="true"/>
+  <file name="untitled-5.html" crc="4018016059" seo="true" mt="1439009114968" redirect="true"/>
+</manifest>
