@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dg777.github.io/Showoff" resolutions="1x,2x" timestamp="1439068483990">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dg777.github.io/Showoff" resolutions="1x,2x" timestamp="1439068607732">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
     <file name="master_a-master.css" crc="468411961" ref="event-description:team:save-for-later:map:feedback:search"/>
-    <file name="index.css" crc="287401385" ref="index"/>
+    <file name="index.css" crc="508022396" ref="index"/>
     <file name="event-description.css" crc="498629257" ref="event-description"/>
     <file name="master_a-master-copy.css" crc="263648857" ref="index"/>
     <file name="team.css" crc="434086922" ref="team"/>
@@ -39,8 +39,8 @@
     <file name="8.jpg" crc="333185790" seo="true" ref="search:index"/>
     <file name="8_2x.jpg" crc="3960927605" seo="true" ref="search:index"/>
     <file name="pasted image 1515x1043.jpg" crc="335232639" seo="true" ref="map"/>
-    <file name="untitled-1.png" crc="3993499540" seo="true" ref="event-description:search:map:team:feedback:save-for-later"/>
-    <file name="untitled-1_2x.png" crc="357060646" seo="true" ref="event-description:search:map:team:feedback:save-for-later"/>
+    <file name="untitled-1.png" crc="3993499540" seo="true" ref="event-description:search:map:team:feedback:save-for-later:index"/>
+    <file name="untitled-1_2x.png" crc="357060646" seo="true" ref="event-description:search:map:team:feedback:save-for-later:index"/>
     <file name="arrow.png" crc="3797297895" seo="true" ref="event-description"/>
     <file name="arrow_2x.png" crc="3800946600" seo="true" ref="event-description"/>
     <file name="pasted image 1515x1043_2x.jpg" crc="133921431" seo="true" ref="map"/>
@@ -48,7 +48,7 @@
     <file name="logo_2x.png" crc="3889004645" seo="true" ref="error"/>
   </folder>
   <file name="event-description.html" crc="3774144304" seo="true" mt="1439067112465" redirect="true"/>
-  <file name="index.html" crc="4098774131" seo="true" mt="1439068481965" redirect="true"/>
+  <file name="index.html" crc="80075941" seo="true" mt="1439068592227" redirect="true"/>
   <file name="search.html" crc="4034118171" seo="true" mt="1439067112465" redirect="true"/>
   <file name="map.html" crc="417857537" seo="true" mt="1439067112465" redirect="true"/>
   <file name="error.html" crc="217424798" seo="true" mt="1439029551644" redirect="true"/>
