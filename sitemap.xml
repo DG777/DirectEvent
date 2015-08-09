@@ -265,18 +265,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dg777.github.io/Showoff/images/pasted%20image%20780x336.png</loc>
-    <lastmod>2015-08-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://dg777.github.io/Showoff/images/pasted%20image%20780x336_2x.png</loc>
-    <lastmod>2015-08-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://dg777.github.io/Showoff/images/8.png</loc>
     <lastmod>2015-08-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -296,6 +284,18 @@
   </url>
   <url>
     <loc>http://dg777.github.io/Showoff/images/10_2x.jpg</loc>
+    <lastmod>2015-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dg777.github.io/Showoff/images/2.jpg</loc>
+    <lastmod>2015-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dg777.github.io/Showoff/images/2_2x.jpg</loc>
     <lastmod>2015-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

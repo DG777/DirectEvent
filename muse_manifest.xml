@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dg777.github.io/Showoff" resolutions="1x,2x" timestamp="1439091112208">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dg777.github.io/Showoff" resolutions="1x,2x" timestamp="1439091245642">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="307029548" ref="phone>feedback:phone>event-description:phone>index:phone>map:phone>team:phone>search"/>
@@ -10,9 +10,9 @@
       <file name="team.css" crc="463572498" ref="phone>team"/>
       <file name="search.css" crc="4198004486" ref="phone>search"/>
     </folder>
-    <file name="index.html" crc="3911835917" seo="true" mt="1439090794137" redirect="true"/>
-    <file name="search.html" crc="40948427" seo="true" mt="1439089710674" redirect="true"/>
-    <file name="event-description.html" crc="3787302093" seo="true" mt="1439089774477" redirect="true"/>
+    <file name="index.html" crc="339044073" seo="true" mt="1439091232065" redirect="true"/>
+    <file name="search.html" crc="4038110157" seo="true" mt="1439091231995" redirect="true"/>
+    <file name="event-description.html" crc="4070431992" seo="true" mt="1439091232205" redirect="true"/>
     <file name="map.html" crc="120471097" seo="true" mt="1439090650816" redirect="true"/>
     <file name="feedback.html" crc="267319955" seo="true" mt="1439089914223" redirect="true"/>
     <file name="error.html" crc="398551084" seo="true" mt="1439089920678" redirect="true"/>
@@ -82,16 +82,16 @@
     <file name="7_2x.png" crc="3891196635" seo="true" ref="phone>index:phone>search:search:index"/>
     <file name="9.jpg" crc="3934767517" seo="true" ref="phone>index:phone>search:search:index"/>
     <file name="9_2x.jpg" crc="4083310681" seo="true" ref="phone>index:phone>search:search:index"/>
-    <file name="pasted image 780x336.png" crc="310741927" seo="true" ref="phone>index:phone>search:search:index"/>
-    <file name="pasted image 780x336_2x.png" crc="129559301" seo="true" ref="phone>index:phone>search:search:index"/>
     <file name="8.png" crc="4167047587" seo="true" ref="phone>index:phone>search:search:index"/>
     <file name="8_2x.png" crc="4176755633" seo="true" ref="phone>index:phone>search:search:index"/>
     <file name="10.jpg" crc="213314252" seo="true" ref="phone>index:phone>search:search:index"/>
     <file name="10_2x.jpg" crc="265259662" seo="true" ref="phone>index:phone>search:search:index"/>
+    <file name="2.jpg" crc="4203111282" seo="true" ref="phone>index:phone>search:search:index"/>
+    <file name="2_2x.jpg" crc="3886629204" seo="true" ref="phone>index:phone>search:search:index"/>
   </folder>
-  <file name="event-description.html" crc="381493648" seo="true" mt="1439089333019" redirect="true"/>
-  <file name="index.html" crc="4092464825" seo="true" mt="1439090843453" redirect="true"/>
-  <file name="search.html" crc="4059514906" seo="true" mt="1439090789156" redirect="true"/>
+  <file name="event-description.html" crc="4216123053" seo="true" mt="1439091232385" redirect="true"/>
+  <file name="index.html" crc="4203057659" seo="true" mt="1439091232260" redirect="true"/>
+  <file name="search.html" crc="4124845383" seo="true" mt="1439091232135" redirect="true"/>
   <file name="map.html" crc="323716317" seo="true" mt="1439090541332" redirect="true"/>
   <file name="error.html" crc="3949749981" seo="true" mt="1439070775756" redirect="true"/>
   <file name="team.html" crc="4088940470" seo="true" mt="1439090037732" redirect="true"/>
