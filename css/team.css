@@ -1,7 +1,7 @@
 .version.team /* version checker */
 {
-	color: #0000FE;
-	background-color: #467B06;
+	color: #00000D;
+	background-color: #C68D82;
 }
 
 .html
@@ -82,6 +82,7 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 18px;
 	text-align: center;
 	line-height: 22px;
@@ -98,6 +99,7 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 16px;
 	text-align: center;
 	line-height: 19px;
@@ -138,6 +140,7 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 18px;
 	text-align: center;
 	line-height: 22px;
@@ -153,6 +156,7 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 16px;
 	text-align: center;
 	line-height: 19px;
@@ -187,11 +191,7 @@
 	width: 278px;
 	min-height: 40px;
 	background-color: transparent;
-	font-size: 23px;
-	text-align: center;
 	line-height: 28px;
-	font-family: fira-sans, sans-serif;
-	font-weight: 400;
 	position: relative;
 }
 
@@ -224,6 +224,7 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 18px;
 	text-align: center;
 	line-height: 22px;
@@ -240,6 +241,7 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 16px;
 	text-align: center;
 	line-height: 19px;
@@ -291,6 +293,7 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 18px;
 	text-align: center;
 	line-height: 22px;
@@ -306,6 +309,7 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 16px;
 	text-align: center;
 	line-height: 19px;
@@ -346,6 +350,7 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 18px;
 	text-align: center;
 	line-height: 22px;
@@ -361,6 +366,7 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 16px;
 	text-align: center;
 	line-height: 19px;

@@ -151,12 +151,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://dg777.github.io/Showoff/images/untitled-123x23.png</loc>
-    <lastmod>2015-08-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://dg777.github.io/Showoff/images/ic_search_black_36px.png</loc>
     <lastmod>2015-08-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -308,6 +302,12 @@
   </url>
   <url>
     <loc>http://dg777.github.io/Showoff/images/untitled-121x21.png</loc>
+    <lastmod>2015-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://dg777.github.io/Showoff/images/untitled-1.png</loc>
     <lastmod>2015-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

@@ -1,7 +1,7 @@
 .version.event_description /* version checker */
 {
-	color: #0000E6;
-	background-color: #1B23DF;
+	color: #000011;
+	background-color: #FCF172;
 }
 
 @-ms-viewport
@@ -90,6 +90,7 @@
 	width: 278px;
 	min-height: 40px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 19px;
 	text-align: center;
 	line-height: 23px;

@@ -1,7 +1,7 @@
 .version.feedback /* version checker */
 {
-	color: #0000E0;
-	background-color: #670816;
+	color: #00000B;
+	background-color: #1F7D97;
 }
 
 .html
@@ -84,11 +84,7 @@
 	width: 444px;
 	min-height: 40px;
 	background-color: transparent;
-	font-size: 23px;
-	text-align: center;
 	line-height: 28px;
-	font-family: fira-sans, sans-serif;
-	font-weight: 400;
 	position: relative;
 }
 

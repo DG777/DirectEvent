@@ -1,7 +1,7 @@
 .version.map /* version checker */
 {
-	color: #0000F2;
-	background-color: #1C60E9;
+	color: #0000E7;
+	background-color: #8FCA72;
 }
 
 @-ms-viewport
@@ -73,6 +73,7 @@
 	width: 278px;
 	min-height: 40px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 19px;
 	text-align: center;
 	line-height: 23px;

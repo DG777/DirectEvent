@@ -1,7 +1,7 @@
 .version.feedback /* version checker */
 {
-	color: #0000FB;
-	background-color: #477F19;
+	color: #0000EE;
+	background-color: #B703DE;
 }
 
 @-ms-viewport
@@ -74,6 +74,7 @@
 	width: 316px;
 	min-height: 40px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 19px;
 	text-align: center;
 	line-height: 23px;

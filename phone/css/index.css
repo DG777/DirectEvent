@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000D;
-	background-color: #293879;
+	color: #000014;
+	background-color: #D577AB;
 }
 
 @-ms-viewport
@@ -109,27 +109,18 @@
 	width: 226px;
 	min-height: 40px;
 	background-color: transparent;
-	letter-spacing: -1px;
-	font-size: 19px;
-	text-align: center;
 	line-height: 23px;
-	font-family: fira-sans, sans-serif;
-	font-weight: 400;
+	letter-spacing: -1px;
 	margin-left: 77px;
 	margin-top: 13px;
 	position: relative;
-}
-
-#u1159-2
-{
-	padding-bottom: 6px;
 }
 
 #pu1304
 {
 	width: 0.01px;
 	margin-left: 24px;
-	margin-top: 34px;
+	margin-top: 28px;
 }
 
 #u1304

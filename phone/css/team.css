@@ -1,7 +1,7 @@
 .version.team /* version checker */
 {
-	color: #0000F0;
-	background-color: #F20ABC;
+	color: #0000F9;
+	background-color: #A927E4;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 569.6780592036689px;
+	min-height: 569.9916666666666px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -74,6 +74,7 @@
 	width: 278px;
 	min-height: 40px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 19px;
 	text-align: center;
 	line-height: 23px;
@@ -142,6 +143,7 @@
 	width: 160px;
 	min-height: 25px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 18px;
 	text-align: center;
 	line-height: 22px;
@@ -158,6 +160,7 @@
 	width: 160px;
 	min-height: 25px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 18px;
 	text-align: center;
 	line-height: 22px;
@@ -181,6 +184,7 @@
 	width: 160px;
 	min-height: 25px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 16px;
 	text-align: center;
 	line-height: 19px;
@@ -197,6 +201,7 @@
 	width: 160px;
 	min-height: 25px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 16px;
 	text-align: center;
 	line-height: 19px;
@@ -271,6 +276,7 @@
 	width: 146px;
 	min-height: 23px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 18px;
 	text-align: center;
 	line-height: 22px;
@@ -286,6 +292,7 @@
 	width: 146px;
 	min-height: 23px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 18px;
 	text-align: center;
 	line-height: 22px;
@@ -309,6 +316,7 @@
 	width: 146px;
 	min-height: 23px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 16px;
 	text-align: center;
 	line-height: 19px;
@@ -324,6 +332,7 @@
 	width: 146px;
 	min-height: 23px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 16px;
 	text-align: center;
 	line-height: 19px;
@@ -351,26 +360,21 @@
 	position: relative;
 }
 
-#pu1367-4
-{
-	width: 0.01px;
-	margin-left: 112px;
-	margin-top: 15px;
-}
-
 #u1367-4
 {
 	z-index: 6;
 	width: 156px;
 	min-height: 24px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 18px;
 	text-align: center;
 	line-height: 22px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
+	margin-left: 112px;
+	margin-top: 15px;
 	position: relative;
-	margin-right: -10000px;
 }
 
 #u1376-4
@@ -379,14 +383,16 @@
 	width: 156px;
 	min-height: 24px;
 	background-color: transparent;
+	color: #25403E;
 	font-size: 16px;
 	text-align: center;
 	line-height: 19px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
+	margin-left: 112px;
+	top: -2px;
+	margin-bottom: -2px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 20px;
 }
 
 body

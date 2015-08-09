@@ -1,7 +1,7 @@
 .version.event_description /* version checker */
 {
-	color: #000017;
-	background-color: #5A8437;
+	color: #0000F0;
+	background-color: #769757;
 }
 
 .html
@@ -91,12 +91,7 @@
 	width: 432px;
 	min-height: 40px;
 	background-color: transparent;
-	letter-spacing: -1px;
-	font-size: 23px;
-	text-align: center;
 	line-height: 28px;
-	font-family: fira-sans, sans-serif;
-	font-weight: 400;
 	margin-left: 284px;
 	position: relative;
 }

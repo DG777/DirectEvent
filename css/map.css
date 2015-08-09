@@ -1,7 +1,7 @@
 .version.map /* version checker */
 {
-	color: #000017;
-	background-color: #BB1992;
+	color: #0000F4;
+	background-color: #422337;
 }
 
 .html
@@ -84,12 +84,7 @@
 	width: 432px;
 	min-height: 40px;
 	background-color: transparent;
-	letter-spacing: -1px;
-	font-size: 23px;
-	text-align: center;
 	line-height: 28px;
-	font-family: fira-sans, sans-serif;
-	font-weight: 400;
 	margin-left: 246px;
 	position: relative;
 }
