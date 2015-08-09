@@ -1,32 +1,32 @@
 .version.event_description /* version checker */
 {
-	color: #000011;
-	background-color: #FCF172;
+	color: #0000ED;
+	background-color: #5B3D84;
 }
 
 @-ms-viewport
 {
-	width: 380px;
+	width: 450px;
 }
 
 @-webkit-viewport
 {
-	width: 380px;
+	width: 450px;
 }
 
 @-o-viewport
 {
-	width: 380px;
+	width: 450px;
 }
 
 @-moz-viewport
 {
-	width: 380px;
+	width: 450px;
 }
 
 @viewport
 {
-	width: 380px;
+	width: 450px;
 }
 
 .html
@@ -37,7 +37,7 @@
 #page
 {
 	z-index: 1;
-	width: 380px;
+	width: 450px;
 	min-height: 569.9916666666666px;
 	background-image: none;
 	border-style: none;
@@ -59,7 +59,7 @@
 	margin-bottom: -18px;
 	margin-right: -10000px;
 	margin-top: -3px;
-	left: 120px;
+	left: 155px;
 }
 
 #u1126,#u1126-bw
@@ -71,8 +71,8 @@
 #pu1250
 {
 	width: 0.01px;
-	margin-left: 19px;
-	margin-top: 26px;
+	margin-left: 59px;
+	margin-top: 29px;
 }
 
 #u1250
@@ -90,10 +90,10 @@
 	width: 278px;
 	min-height: 40px;
 	background-color: transparent;
+	line-height: 23px;
 	color: #25403E;
 	font-size: 19px;
 	text-align: center;
-	line-height: 23px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -104,8 +104,8 @@
 #pu1235
 {
 	width: 0.01px;
-	margin-left: 19px;
-	margin-top: 5px;
+	margin-left: 55px;
+	margin-top: 10px;
 }
 
 #u1235
@@ -130,9 +130,9 @@
 	width: 332px;
 	min-height: 22px;
 	background-color: transparent;
+	color: #000000;
 	font-size: 19px;
 	line-height: 23px;
-	color: #000000;
 	font-family: fira-sans, sans-serif;
 	font-weight: 500;
 	margin-left: 14px;
@@ -185,9 +185,9 @@
 	width: 25px;
 	min-height: 20px;
 	background-color: transparent;
+	line-height: 24px;
 	font-size: 20px;
 	text-align: center;
-	line-height: 24px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 159px;
@@ -327,7 +327,7 @@
 body
 {
 	position: relative;
-	min-width: 380px;
+	min-width: 450px;
 }
 
 #page .verticalspacer

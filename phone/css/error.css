@@ -1,32 +1,32 @@
 .version.error /* version checker */
 {
-	color: #000009;
-	background-color: #2ACA35;
+	color: #0000FB;
+	background-color: #75F6F6;
 }
 
 @-ms-viewport
 {
-	width: 380px;
+	width: 450px;
 }
 
 @-webkit-viewport
 {
-	width: 380px;
+	width: 450px;
 }
 
 @-o-viewport
 {
-	width: 380px;
+	width: 450px;
 }
 
 @-moz-viewport
 {
-	width: 380px;
+	width: 450px;
 }
 
 @viewport
 {
-	width: 380px;
+	width: 450px;
 }
 
 .html
@@ -43,7 +43,7 @@
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding: 89px 46px 110.18855932203326px;
+	padding: 89px 81px 110.18855932203326px;
 }
 
 #u1253
@@ -61,10 +61,10 @@
 	width: 289px;
 	min-height: 72px;
 	background-color: transparent;
+	line-height: 23px;
 	letter-spacing: 0px;
 	font-size: 19px;
 	text-align: center;
-	line-height: 23px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-top: 42px;
@@ -77,9 +77,9 @@
 	width: 109px;
 	min-height: 39px;
 	background-color: transparent;
+	line-height: 23px;
 	font-size: 19px;
 	text-align: center;
-	line-height: 23px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 89px;
@@ -101,7 +101,7 @@
 body
 {
 	position: relative;
-	min-width: 380px;
+	min-width: 450px;
 }
 
 #page .verticalspacer

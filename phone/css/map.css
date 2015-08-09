@@ -1,32 +1,32 @@
 .version.map /* version checker */
 {
-	color: #0000E7;
-	background-color: #8FCA72;
+	color: #0000ED;
+	background-color: #1EDEB6;
 }
 
 @-ms-viewport
 {
-	width: 380px;
+	width: 450px;
 }
 
 @-webkit-viewport
 {
-	width: 380px;
+	width: 450px;
 }
 
 @-o-viewport
 {
-	width: 380px;
+	width: 450px;
 }
 
 @-moz-viewport
 {
-	width: 380px;
+	width: 450px;
 }
 
 @viewport
 {
-	width: 380px;
+	width: 450px;
 }
 
 .html
@@ -37,7 +37,7 @@
 #page
 {
 	z-index: 1;
-	width: 380px;
+	width: 450px;
 	min-height: 570px;
 	background-image: none;
 	border-style: none;
@@ -53,17 +53,17 @@
 
 #u1137
 {
-	z-index: 38;
+	z-index: 37;
 	width: 141px;
 	margin-bottom: -18px;
 	margin-right: -10000px;
 	margin-top: -3px;
-	left: 120px;
+	left: 155px;
 }
 
 #u1126,#u1126-bw
 {
-	z-index: 37;
+	z-index: 36;
 	min-height: 147px;
 }
 
@@ -73,13 +73,13 @@
 	width: 278px;
 	min-height: 40px;
 	background-color: transparent;
+	line-height: 23px;
 	color: #25403E;
 	font-size: 19px;
 	text-align: center;
-	line-height: 23px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
-	margin-left: 51px;
+	margin-left: 86px;
 	margin-top: 25px;
 	position: relative;
 }
@@ -87,7 +87,7 @@
 #pu1259
 {
 	width: 0.01px;
-	margin-left: 19px;
+	margin-left: 55px;
 	margin-top: 23px;
 }
 
@@ -99,79 +99,73 @@
 	border-radius: 12px;
 	position: relative;
 	margin-right: -10000px;
-	padding: 10px 13px 50px 11px;
+	padding: 10px 12px 50px;
 }
 
 #u1267
 {
-	z-index: 36;
+	z-index: 12;
 	width: 269px;
 	min-height: 40px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 25px;
+	margin-left: 24px;
 	position: relative;
 }
 
-#u1260
+#u1778
 {
-	z-index: 7;
-	width: 301px;
-	border-width: 2px;
-	border-style: solid;
-	border-color: #77CEC8;
+	z-index: 35;
+	width: 314px;
+	min-height: 217px;
+	border-style: none;
+	border-color: transparent;
 	background-color: transparent;
-	border-radius: 12px;
-	margin-left: 8px;
-	margin-top: 13px;
+	margin-left: 2px;
+	margin-top: 18px;
 	position: relative;
 }
 
-#u1260 .clip_frame
+#u1775-9
 {
-	-webkit-border-radius: 10px 10px 10px 10px;
-}
-
-#u1262-9
-{
-	z-index: 9;
+	z-index: 13;
 	width: 319px;
 	min-height: 54px;
 	background-color: transparent;
 	font-size: 14px;
 	margin-left: 1px;
-	margin-top: 20px;
+	margin-top: 21px;
 	position: relative;
 }
 
-#u1263-9
+#u1776-9
 {
-	z-index: 18;
+	z-index: 22;
 	width: 319px;
 	min-height: 54px;
 	background-color: transparent;
 	font-size: 14px;
 	text-align: right;
-	margin-top: 25px;
+	margin-top: 6px;
 	position: relative;
 }
 
-#u1262-2,#u1263-2
+#u1775-2,#u1776-2
 {
 	padding-bottom: 12px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 500;
 }
 
-#u1262-4,#u1262-7,#u1263-4,#u1263-7
+#u1775-4,#u1775-7,#u1776-4,#u1776-7
 {
 	padding-bottom: 12px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 }
 
-#u1262-6,#u1263-6
+#u1775-6,#u1776-6
 {
 	font-family: fira-sans, sans-serif;
 	font-weight: 500;
@@ -179,13 +173,13 @@
 
 #u1265
 {
-	z-index: 31;
+	z-index: 7;
 	width: 190px;
 	background-color: #77CEC8;
 	border-radius: 12px;
 	padding-bottom: 4px;
-	margin-left: 65px;
-	margin-top: 14px;
+	margin-left: 64px;
+	margin-top: 21px;
 	position: relative;
 }
 
@@ -194,19 +188,19 @@
 	background-color: #5FCEC8;
 	width: 190px;
 	min-height: 0px;
-	margin: 14px 0px 0px 65px;
+	margin: 21px 0px 0px 64px;
 }
 
 #u1266-4
 {
-	z-index: 32;
+	z-index: 8;
 	width: 127px;
 	min-height: 31px;
 	background-color: transparent;
+	line-height: 25px;
 	color: #FFFFFF;
 	font-size: 21px;
 	text-align: center;
-	line-height: 25px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -215,28 +209,28 @@
 	left: 31px;
 }
 
-#u1264-4
+#u1777-4
 {
-	z-index: 27;
-	width: 135px;
-	min-height: 47px;
+	z-index: 31;
+	width: 61px;
+	min-height: 31px;
 	background-color: transparent;
+	line-height: 32px;
 	color: #77CEC8;
-	font-size: 33px;
+	font-size: 27px;
 	text-align: center;
-	line-height: 40px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 380px;
-	left: 94px;
+	margin-top: 381px;
+	left: 141px;
 }
 
 body
 {
 	position: relative;
-	min-width: 380px;
+	min-width: 450px;
 }
 
 #page .verticalspacer

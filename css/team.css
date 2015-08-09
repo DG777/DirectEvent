@@ -1,7 +1,7 @@
 .version.team /* version checker */
 {
-	color: #00000D;
-	background-color: #C68D82;
+	color: #0000E8;
+	background-color: #99DC42;
 }
 
 .html
@@ -82,10 +82,10 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #25403E;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 2px;
@@ -99,10 +99,10 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #25403E;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	top: -3px;
@@ -140,10 +140,10 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #25403E;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	margin-top: 19px;
@@ -156,10 +156,10 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #25403E;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	top: -3px;
@@ -224,10 +224,10 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #25403E;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 37px;
@@ -241,10 +241,10 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #25403E;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 37px;
@@ -293,10 +293,10 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #25403E;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	margin-top: 23px;
@@ -309,10 +309,10 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #25403E;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	top: -7px;
@@ -350,10 +350,10 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #25403E;
 	font-size: 18px;
 	text-align: center;
-	line-height: 22px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	margin-top: 23px;
@@ -366,10 +366,10 @@
 	width: 204px;
 	min-height: 32px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #25403E;
 	font-size: 16px;
 	text-align: center;
-	line-height: 19px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	top: -7px;

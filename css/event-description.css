@@ -1,7 +1,7 @@
 .version.event_description /* version checker */
 {
-	color: #0000F0;
-	background-color: #769757;
+	color: #0000E1;
+	background-color: #67E62E;
 }
 
 .html
@@ -121,9 +121,9 @@
 	width: 826px;
 	min-height: 22px;
 	background-color: transparent;
+	color: #000000;
 	font-size: 24px;
 	line-height: 29px;
-	color: #000000;
 	font-family: fira-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -241,10 +241,10 @@
 	width: 94px;
 	min-height: 28px;
 	background-color: transparent;
+	line-height: 25px;
 	color: #FFFFFF;
 	font-size: 21px;
 	text-align: center;
-	line-height: 25px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -259,9 +259,9 @@
 	width: 25px;
 	min-height: 20px;
 	background-color: transparent;
+	line-height: 24px;
 	font-size: 20px;
 	text-align: center;
-	line-height: 24px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -297,10 +297,10 @@
 	width: 139px;
 	min-height: 25px;
 	background-color: transparent;
+	line-height: 25px;
 	color: #FFFFFF;
 	font-size: 21px;
 	text-align: center;
-	line-height: 25px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -336,10 +336,10 @@
 	width: 118px;
 	min-height: 25px;
 	background-color: transparent;
+	line-height: 25px;
 	color: #FFFFFF;
 	font-size: 21px;
 	text-align: center;
-	line-height: 25px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	position: relative;

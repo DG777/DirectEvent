@@ -1,7 +1,7 @@
 .version.map /* version checker */
 {
-	color: #0000F4;
-	background-color: #422337;
+	color: #000005;
+	background-color: #3967F0;
 }
 
 .html
@@ -25,19 +25,19 @@
 
 #u117
 {
-	z-index: 36;
+	z-index: 35;
 	height: 97px;
 	top: 0px;
 }
 
 #u117-bw
 {
-	z-index: 36;
+	z-index: 35;
 }
 
 #u111
 {
-	z-index: 37;
+	z-index: 36;
 	width: 227px;
 	top: 0px;
 	left: 50%;
@@ -46,7 +46,7 @@
 
 #u346
 {
-	z-index: 40;
+	z-index: 39;
 	width: 283px;
 	min-height: 55px;
 	top: 26px;
@@ -56,7 +56,7 @@
 
 #u344
 {
-	z-index: 39;
+	z-index: 38;
 	width: 357px;
 	min-height: 55px;
 	top: 26px;
@@ -66,7 +66,7 @@
 
 #u413
 {
-	z-index: 41;
+	z-index: 40;
 	width: 25px;
 	top: 42px;
 	left: 50%;
@@ -80,7 +80,7 @@
 
 #u771-4
 {
-	z-index: 23;
+	z-index: 21;
 	width: 432px;
 	min-height: 40px;
 	background-color: transparent;
@@ -107,7 +107,7 @@
 
 #u405
 {
-	z-index: 43;
+	z-index: 42;
 	width: 331px;
 	min-height: 66px;
 	border-style: none;
@@ -119,7 +119,7 @@
 
 #u785
 {
-	z-index: 31;
+	z-index: 29;
 	width: 190px;
 	background-color: #77CEC8;
 	border-radius: 12px;
@@ -140,14 +140,14 @@
 
 #u786-4
 {
-	z-index: 32;
+	z-index: 30;
 	width: 127px;
 	min-height: 31px;
 	background-color: transparent;
+	line-height: 25px;
 	color: #FFFFFF;
 	font-size: 21px;
 	text-align: center;
-	line-height: 25px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -156,34 +156,28 @@
 	left: 31px;
 }
 
-#u398
+#u1773
 {
-	z-index: 3;
-	width: 676px;
-	border-width: 6px;
-	border-style: solid;
-	border-color: #77CEC8;
+	z-index: 34;
+	width: 675px;
+	min-height: 465px;
+	border-style: none;
+	border-color: transparent;
 	background-color: transparent;
-	border-radius: 12px;
-	margin-left: 45px;
-	margin-top: 30px;
+	margin-left: 52px;
+	margin-top: 32px;
 	position: relative;
-}
-
-#u398 .clip_frame
-{
-	-webkit-border-radius: 6px 6px 6px 6px;
 }
 
 #pu768-9
 {
 	width: 0.01px;
-	margin-top: 31px;
+	margin-top: 41px;
 }
 
 #u768-9
 {
-	z-index: 5;
+	z-index: 3;
 	width: 319px;
 	min-height: 54px;
 	background-color: transparent;
@@ -195,14 +189,14 @@
 
 #u780-4
 {
-	z-index: 27;
+	z-index: 25;
 	width: 135px;
 	min-height: 47px;
 	background-color: transparent;
+	line-height: 40px;
 	color: #77CEC8;
 	font-size: 33px;
 	text-align: center;
-	line-height: 40px;
 	font-family: fira-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -213,13 +207,13 @@
 
 #u769-9
 {
-	z-index: 14;
+	z-index: 12;
 	width: 319px;
 	min-height: 54px;
 	background-color: transparent;
+	line-height: 24px;
 	font-size: 20px;
 	text-align: right;
-	line-height: 24px;
 	position: relative;
 	margin-right: -10000px;
 	left: 459px;
