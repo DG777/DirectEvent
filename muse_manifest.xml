@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dg777.github.io/Showoff" resolutions="1x,2x" timestamp="1439090932357">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dg777.github.io/Showoff" resolutions="1x,2x" timestamp="1439091112208">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="307029548" ref="phone>feedback:phone>event-description:phone>index:phone>map:phone>team:phone>search"/>
