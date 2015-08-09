@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dg777.github.io/Showoff" resolutions="1x,2x" timestamp="1439090673617">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="dg777.github.io/Showoff" resolutions="1x,2x" timestamp="1439090932357">
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="307029548" ref="phone>feedback:phone>event-description:phone>index:phone>map:phone>team:phone>search"/>
@@ -10,7 +10,7 @@
       <file name="team.css" crc="463572498" ref="phone>team"/>
       <file name="search.css" crc="4198004486" ref="phone>search"/>
     </folder>
-    <file name="index.html" crc="456572780" seo="true" mt="1439089646928" redirect="true"/>
+    <file name="index.html" crc="3911835917" seo="true" mt="1439090794137" redirect="true"/>
     <file name="search.html" crc="40948427" seo="true" mt="1439089710674" redirect="true"/>
     <file name="event-description.html" crc="3787302093" seo="true" mt="1439089774477" redirect="true"/>
     <file name="map.html" crc="120471097" seo="true" mt="1439090650816" redirect="true"/>
@@ -21,7 +21,7 @@
   <folder name="css">
     <file name="site_global.css" crc="4123134343"/>
     <file name="master_a-master.css" crc="468411961" ref="event-description:team:map:feedback:search"/>
-    <file name="index.css" crc="4167608487" ref="index"/>
+    <file name="index.css" crc="4242265797" ref="index"/>
     <file name="event-description.css" crc="3781682734" ref="event-description"/>
     <file name="master_a-master-copy.css" crc="3877750542" ref="index"/>
     <file name="team.css" crc="3902397506" ref="team"/>
@@ -90,8 +90,8 @@
     <file name="10_2x.jpg" crc="265259662" seo="true" ref="phone>index:phone>search:search:index"/>
   </folder>
   <file name="event-description.html" crc="381493648" seo="true" mt="1439089333019" redirect="true"/>
-  <file name="index.html" crc="4231932058" seo="true" mt="1439089525771" redirect="true"/>
-  <file name="search.html" crc="384999912" seo="true" mt="1439089260513" redirect="true"/>
+  <file name="index.html" crc="4092464825" seo="true" mt="1439090843453" redirect="true"/>
+  <file name="search.html" crc="4059514906" seo="true" mt="1439090789156" redirect="true"/>
   <file name="map.html" crc="323716317" seo="true" mt="1439090541332" redirect="true"/>
   <file name="error.html" crc="3949749981" seo="true" mt="1439070775756" redirect="true"/>
   <file name="team.html" crc="4088940470" seo="true" mt="1439090037732" redirect="true"/>
